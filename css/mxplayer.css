@@ -1,0 +1,114 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+.navbar{
+	width:93%;
+	height:61px;
+    background:#3c8cf0;
+    margin:auto;
+}
+.menu{
+	margin-left: 257px;
+    margin-top: -47px;
+
+}
+.logo{
+	width: 136px;
+    margin: 15px;
+}
+.menu a{
+	margin-left:47px;
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+}
+.image{
+	width:100%;
+	}
+
+
+
+.image1{
+
+	width:214px;
+	height:335px;
+}
+/*.first_line div{
+	border:1px solid;
+	margin-left:20px;
+	float:left;
+	width:214px;
+	height:400px;
+    margin-top:20px;
+
+}*/
+.names{
+	color:#35344cc4;
+	font-size:14px;
+	line-height:59px;
+}
+.subcategories div{
+
+	float:left;
+	margin-left:170px;
+
+  
+    }
+    .subcategories{
+    	    margin-left: -166px;
+    }
+.categories div{
+	float:left;
+	margin-left:170px;
+
+}
+.below_categories{
+margin-top:174px;
+margin-left:164px;
+
+}
+.second_last{
+	margin-top:201px;
+	margin-left:-61px;
+	
+}
+.second_last div{
+	float:left;
+	margin-left:61px;
+
+}
+.last{
+	margin-top:123px;
+	margin-left:31px;
+}
+.last div{
+float:left;
+margin-left:122px;
+
+}
+/*.first_line{
+background:white;
+}*/
+.space{
+	
+	width:93%;
+	height:1500px;  
+    background:white;
+    margin:auto;
+}
+.first_line div{
+	float:left;
+	margin-left:15px;
+	margin-top:16px;
+}
+.first_line{
+	margin-left:14px;
+	
+}
+.headings{
+	font-size:26px;
+	margin-top:46px;
+	margin-left:14px;
+}

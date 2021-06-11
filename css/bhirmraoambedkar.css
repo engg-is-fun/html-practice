@@ -1,0 +1,13 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.navbar{
+	background:#337ab7;
+	height:200px;
+}
+.menu{
+	margin-left:20px;
+	line-height:3px;
+}
+.menu

@@ -1,0 +1,96 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.start{
+     height:20px;
+     width:100%;
+     background:black;
+     font-size:13px;
+     color:white;
+     padding-top:11px;
+ 
+     float:left;
+}
+.image1{
+    height: 43px;
+    margin-left: 198px;
+    margin-top: 14px;
+ 
+}
+.menu{
+margin-left:800px;
+margin-top:-41px;
+}
+.menu a{
+margin-left:73px;
+color:black;
+font-weight:bold;
+text-decoration:none;
+}
+.image2{
+	margin-top:20px;
+}
+.image3{
+	margin-top:20px;
+	margin-left:150px;
+
+	
+}
+.image3 img{
+	height:580px;
+	width:580px;
+    margin-top:20px;
+    margin-left:30px;
+    float:left;
+}
+.image4 {
+    margin-top:30px;
+}
+.image4 img{
+		width:100%;
+		margin-top:30px;
+}
+.second_last{
+	width:100%;
+	height:283px;
+	margin-top:30px;
+	background:black;
+	margin-top:1860px;
+	color:white;
+
+}
+.sign_up{
+	background:rgb(133, 133, 133);
+	font-size:19px;
+	color:white;
+	border-radius:8px;
+	height:43px;
+	width:104px;
+}
+.second_last h1{
+    font-size:30px;
+    padding-top:58px;
+
+}
+.a div{
+	float:left;
+	margin-left:20px;
+}
+.a{
+	margin-left:607px;
+	margin-top:19px;
+}
+.b{
+	height:39px;
+	width:226px;
+	border-radius:8px;
+}
+.last{
+	margin-left:43px;
+	margin-top:43px;
+}
+.last div{
+	float:left;
+	margin-left:139px;
+}

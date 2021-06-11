@@ -1,0 +1,100 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.navbar{
+	background:#1ebea5;
+	width:100%;
+	height:91px;
+}
+.menu a{
+	font-size:15px;
+	text-decoration:none;
+	margin-left:57px;
+	color:white;
+    
+}
+.menu{
+	margin-top:-32px;
+	margin-left:452px;
+}
+.text{
+	padding-left:488px;
+	padding-top:222px;
+}
+.image1 img{
+	height: 599px;
+    width: 318px;
+}
+.image1{
+	margin-left:959px;
+	margin-top:-290px;
+}
+.image{
+	margin-left:146px;
+	margin-top:26px;
+}
+.left_box{
+	height:683px;
+	width:792px;
+	margin-left:20px;
+	background:#94e7da;
+	margin-top:20px;
+	}
+.left_box img{
+  height:354px;
+}
+.a{
+	padding-top:121px;
+
+}
+.rightbox{
+
+	height:683px;
+	width:677px;
+	margin-left:831px;
+	background:#cbefea;
+	margin-top:-683px;
+
+}
+button{
+	
+	height:40px;
+	width:223px;
+	font-size:20px;
+	color:#1cb39b;
+    margin-left:715px;
+    margin-top:27px;
+    border:solid;
+
+}
+.second_last{
+	margin-top:20px;
+	background:#273443;
+	width:100%;
+	height:350px;
+
+}
+.second_last_text div{
+	margin-left:176px;
+	color:white;
+	float:left;
+	margin-top:94px;
+}
+.second_last_text{
+	margin-left:20px;
+}
+.last{
+	width:100%;
+	height:40px;
+	background:#232f3c;
+}
+.last div{
+	color:white;
+	margin-left:147px;
+	float:left;
+}
+.last_text{
+	padding-left:142px;
+	margin-top:11px;
+}
